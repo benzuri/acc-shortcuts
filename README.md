@@ -1,6 +1,6 @@
 ## About ACC Shortcuts
 
-Version of [ACC Auto Chat](/../../../acc-autochat) in Python
+[ACC Auto Chat](/../../../acc-autochat) version coded in Python
 
 ## Screenshots
 
